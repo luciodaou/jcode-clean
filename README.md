@@ -3,9 +3,11 @@ Main goal is to clean the abusive and invasive jcode installation.
 
 Below is the list of already identified changes without user consent on installation.
 - macOS:
-  -  launch agent
-  -  global hotkey
-  -  menu bar icon
--  General:
-  -  Codex and Claude Code dotfiles configs
+  -  Launch agent
+  -  Global hotkey
+  -  Menu bar icon
+- General:
+  -  Codex dotfile configs
+  -  Claude Code dotfile configs
 
+No change as of September 15th, 2026.
